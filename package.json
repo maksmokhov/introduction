@@ -1,0 +1,22 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksmokhov/introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksmokhov/introduction/issues"
+  },
+  "homepage": "https://github.com/maksmokhov/introduction#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
